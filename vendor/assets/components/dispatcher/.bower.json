@@ -1,0 +1,26 @@
+{
+  "name": "dispatcher",
+  "version": "0.1.1",
+  "main": "dispatcher.js",
+  "devDependencies": {
+    "jasmine": "~2.0.0",
+    "jquery": "~2.1.0"
+  },
+  "ignore": [
+    "spec",
+    "vendor",
+    ".gitignore",
+    ".bowerrc"
+  ],
+  "homepage": "https://github.com/fnando/dispatcher-js",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.1",
+    "commit": "64d6023aa51a2efba57f83be9e2b5c78975b941e"
+  },
+  "_source": "git://github.com/fnando/dispatcher-js.git",
+  "_target": "~0.1.1",
+  "_originalSource": "dispatcher",
+  "_direct": true
+}
