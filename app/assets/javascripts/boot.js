@@ -1,0 +1,3 @@
+$(function(){
+  Dispatcher.init(MyApp);
+});
