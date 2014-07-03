@@ -1,6 +1,6 @@
-MyApp.users = {
+MyApp.posts = {
   index: function(){
-    alert('Abriu a index de users');
+    alert('Abriu a index de posts');
   },
   new: function(){
     alert('Abriu a new de users');
